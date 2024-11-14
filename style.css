@@ -136,7 +136,7 @@ span{
     background-size: cover;
     background-position: unset;
     display: flex;
-    justify-content: space-around;
+    justify-content: centre;
     align-items: flex-end;
 }
 .hero-mesg{
