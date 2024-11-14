@@ -134,9 +134,9 @@ span{
     background-image:url("hero_image.jpg") ;
     height: 350px;
     background-size: cover;
-    background-position: center;
+    background-position: unset;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-end;
 }
 .hero-mesg{
