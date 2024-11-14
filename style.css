@@ -136,8 +136,10 @@ span{
     background-size: cover;
     background-position: unset;
     display: flex;
-    justify-content: centre;
+    justify-content: space-around;
+    max-width:100%;
     align-items: flex-end;
+    max-inline-size: -webkit-fill-available;
 }
 .hero-mesg{
     background-color: white;
